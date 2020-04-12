@@ -1,6 +1,7 @@
 # Learning DNN with Py step by step
 All of this codes and descriptions are retrieved from **"Deep Learning with python"** book +my own work and experience on it.
 (Even as my ***scratch***).
+**POINT:** Some points maybe not be mention in files.I prefer to explain them in the video because of their practicaly features and I thats better to explain them full deatils.
 
 Downloading the .ipynb file and upload it in your google drive.
 
